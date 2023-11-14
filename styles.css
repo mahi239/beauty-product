@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Tira;
+  src: url(Anurati.otf);
+}
+
 /* Base Resets */
 * {
   padding: 0;
@@ -9,7 +14,7 @@ html,
 body {
   height: 100%;
   width: 100%;
-  /*font-family: "sans-serif";*/
+  font-family: "Tira";
 }
 
 /* main */
