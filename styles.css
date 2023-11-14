@@ -57,3 +57,9 @@ main {
   color: white;
   padding: 1.2rem 2.4rem;
 }
+@media (min-width: 450px) {
+  .center > h1 {
+    font-size: 5rem;
+  
+  }
+}
