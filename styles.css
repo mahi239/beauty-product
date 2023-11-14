@@ -17,7 +17,7 @@ body {
 main {
   height: 100%;
   width: 100%;
-  background-image: url("beauty.avif")
+  background-image: url("beauty.avif");
   background-size: cover;
   background-position: center;
 }
@@ -60,6 +60,5 @@ main {
 @media (min-width: 450px) {
   .center > h1 {
     font-size: 5rem;
-  
   }
 }
